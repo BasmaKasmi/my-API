@@ -11,7 +11,7 @@ Learn to develop an API with NodeJS, TypeScript and ExpressJS
 Learn to document and test an API with Postman
 
 To use this project, first clone the repo on your device using the command below:
-git clone git@rendu-git.etna-alternance.net:module-9179/activity-50057/group-990968.git
+git clone git@github.com:BasmaKasmi/my-API.git
 
 Run the project with the command below : 
 npm run dev
